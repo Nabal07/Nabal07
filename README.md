@@ -29,4 +29,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### Se depurar é o processo de remoção de bugs do software, então programação deve ser o processo de colocação deles.
